@@ -1,0 +1,22 @@
+.containerCard{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.CardImg{
+  width: 200px;
+  margin: 0 auto;
+}
+.CardText{
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px;
+}
+.products{
+    width: 100%;
+}
